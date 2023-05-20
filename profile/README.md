@@ -1,4 +1,4 @@
-# HabitGo: Master your habits and unleash your best self!
+# HabiGo: Master your habits and unleash your best self!
 
 HabitGo is the ultimate mobile application for those who want to manage and transform their lifestyle habits.
 With an intuitive interface and powerful tools, HabitGo gives you full control over your daily routines and helps you effectively achieve your goals.
